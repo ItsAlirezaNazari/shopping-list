@@ -147,6 +147,9 @@ small {
 	color: #fff;
 	background-color: green;
 	padding: 0.75rem 1.5rem;
+	position: sticky;
+	top: 0;
+	left: 0;
 }
 
 #mobile .content .list .item label {
